@@ -1,0 +1,73 @@
+body, html{
+    overflow-x: hidden;
+}
+
+.sidebar{
+    width: 100%;
+}
+
+.sidebar img{
+    width: 90%;
+    margin: 4vh 0 10vh;
+}
+
+.custom-padding-nav{
+    padding-left: 70px !important;
+}
+
+main{
+    background-color: #EAF1FF;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.reset-padding{
+    padding: 0 !important;
+}
+
+.all-content-tabs{
+    padding: 32px;
+}
+
+.sidebar.open{
+    transform: translateX(0px);
+}
+
+.card{
+    margin-bottom: 32px;
+}
+
+.label-card{
+    font-size: 0.8rem;
+    font-weight: 500;
+    opacity: 0.5;
+}
+
+.form-tab{
+    padding: 32px 16px !important;
+}
+
+.breaker-periode{
+    margin: 0 16px;
+    align-self: center;
+    text-align: center;
+    align-content: center;
+}
+
+@media screen and (max-width: 1280px) {
+    .custom-padding-nav{
+        padding-left: 40px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar{
+        position: fixed !important;
+        z-index: 1;
+        background-color: #fff;
+        height: 100%;
+        width: 250px !important;
+        transform: translateX(-250px);
+        transition: transform 0.3s ease-in-out;
+    }
+}

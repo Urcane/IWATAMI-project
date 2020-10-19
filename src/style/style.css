@@ -1,0 +1,84 @@
+.login-main-content{
+    overflow: hidden;
+}
+
+.login-cover{
+    background-image: url('../assets/cover_login.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    height: 100vh;
+    width: 100%;
+}
+
+.login-cover img{
+    padding-top: 2vh;
+
+    width: 35%;
+}
+
+.welcome-greet{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    margin-top: 85vh;
+
+    font-size: 2.8rem;
+}
+
+.form-login{
+    margin: 25vh 0 30vh;
+}
+
+.custom-form{
+    border: 1.2px solid #030663;
+    border-radius: 25px;
+    margin: 24px 0 35px 16%;
+    width: 70%;
+}
+
+.custom-form::after{
+    content: '';
+    display: block;
+    position: relative;
+    border-bottom: 1.2px solid #030663;
+    top: -80px;
+    width: 100%;
+}
+
+.custom-form .form-login-group {
+    margin: 0 2vw;
+    width: 70%;
+}
+
+.custom-form input{
+    border: none !important;
+    height: 50px;
+    margin: 2vh 0;
+}
+
+.button-login{
+    width: 100px;
+}
+
+
+@media screen and (max-width: 1028px){
+    .login-cover img {
+        width: 50%;
+    }
+
+    .welcome-greet{
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .login-cover img {
+        width: 70%;
+    }
+}

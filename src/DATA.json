@@ -1,0 +1,332 @@
+{
+    "data": {
+        "kolam1": {
+            "name": "Kolam 1",
+            "dataHarian": {
+                "9/10/2020": {
+                    "ph": 7.8,
+                    "do": 4,
+                    "suhu": 29,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "10/10/2020": {
+                    "ph": 7.9,
+                    "do": 5,
+                    "suhu": 30,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "11/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.5,
+                    "konduktivitas": 150
+                },
+                "12/10/2020": {
+                    "ph": 7.8,
+                    "do": 2,
+                    "suhu": 32,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "13/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.6,
+                    "konduktivitas": 150
+                },
+                "14/10/2020": {
+                    "ph": 8.0,
+                    "do": 4,
+                    "suhu": 33,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "15/10/2020": {
+                    "ph": 7.6,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.1,
+                    "konduktivitas": 150
+                },
+                "16/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 2.9,
+                    "konduktivitas": 150
+                },
+                "17/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.2,
+                    "konduktivitas": 150
+                },
+                "18/10/2020": {
+                    "ph": 7.8,
+                    "do": 5,
+                    "suhu": 32,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                },
+                "19/10/2020": {
+                    "ph": 7.8,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                }
+            }
+        },
+        "kolam2": {
+            "name": "Kolam 2",
+            "dataHarian": {
+                "9/10/2020": {
+                    "ph": 7.8,
+                    "do": 4,
+                    "suhu": 29,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "10/10/2020": {
+                    "ph": 7.9,
+                    "do": 5,
+                    "suhu": 30,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "11/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.5,
+                    "konduktivitas": 150
+                },
+                "12/10/2020": {
+                    "ph": 7.8,
+                    "do": 2,
+                    "suhu": 32,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "13/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.6,
+                    "konduktivitas": 150
+                },
+                "14/10/2020": {
+                    "ph": 8.0,
+                    "do": 4,
+                    "suhu": 33,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "15/10/2020": {
+                    "ph": 7.6,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.1,
+                    "konduktivitas": 150
+                },
+                "16/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 2.9,
+                    "konduktivitas": 150
+                },
+                "17/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.2,
+                    "konduktivitas": 150
+                },
+                "18/10/2020": {
+                    "ph": 7.8,
+                    "do": 5,
+                    "suhu": 32,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                },
+                "19/10/2020": {
+                    "ph": 7.5,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                }
+            }  
+        },
+        "kolam3": {
+            "name":"Kolam 3",
+            "dataHarian": {
+                "9/10/2020": {
+                    "ph": 7.8,
+                    "do": 4,
+                    "suhu": 29,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "10/10/2020": {
+                    "ph": 7.9,
+                    "do": 5,
+                    "suhu": 30,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "11/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.5,
+                    "konduktivitas": 150
+                },
+                "12/10/2020": {
+                    "ph": 7.8,
+                    "do": 2,
+                    "suhu": 32,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "13/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.6,
+                    "konduktivitas": 150
+                },
+                "14/10/2020": {
+                    "ph": 8.0,
+                    "do": 4,
+                    "suhu": 33,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "15/10/2020": {
+                    "ph": 7.6,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.1,
+                    "konduktivitas": 150
+                },
+                "16/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 2.9,
+                    "konduktivitas": 150
+                },
+                "17/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.2,
+                    "konduktivitas": 150
+                },
+                "18/10/2020": {
+                    "ph": 7.8,
+                    "do": 5,
+                    "suhu": 32,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                },
+                "19/10/2020": {
+                    "ph": 7.9,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                }
+            }
+        },
+        "kolam4": {
+            "name": "Kolam 4",
+            "dataHarian" : {
+                "9/10/2020": {
+                    "ph": 7.8,
+                    "do": 4,
+                    "suhu": 29,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "10/10/2020": {
+                    "ph": 7.9,
+                    "do": 5,
+                    "suhu": 32,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "11/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.5,
+                    "konduktivitas": 150
+                },
+                "12/10/2020": {
+                    "ph": 7.8,
+                    "do": 2,
+                    "suhu": 32,
+                    "sisaPakan": 3.4,
+                    "konduktivitas": 150
+                },
+                "13/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.6,
+                    "konduktivitas": 150
+                },
+                "14/10/2020": {
+                    "ph": 8.0,
+                    "do": 4,
+                    "suhu": 35,
+                    "sisaPakan": 3.7,
+                    "konduktivitas": 150
+                },
+                "15/10/2020": {
+                    "ph": 7.6,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.1,
+                    "konduktivitas": 150
+                },
+                "16/10/2020": {
+                    "ph": 7.7,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 2.9,
+                    "konduktivitas": 150
+                },
+                "17/10/2020": {
+                    "ph": 7.9,
+                    "do": 4,
+                    "suhu": 32,
+                    "sisaPakan": 3.2,
+                    "konduktivitas": 150
+                },
+                "18/10/2020": {
+                    "ph": 7.8,
+                    "do": 5,
+                    "suhu": 32,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                },
+                "19/10/2020": {
+                    "ph": 7.6,
+                    "do": 3,
+                    "suhu": 31,
+                    "sisaPakan": 3.3,
+                    "konduktivitas": 150
+                }
+            }
+        }
+    }
+}
